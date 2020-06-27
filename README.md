@@ -1,2 +1,2 @@
 # Algoritmos em C
-Códigos desenvolvidos na linguagem C
+Os códigos desse repositório são desenvolvidos na linguagem C.
